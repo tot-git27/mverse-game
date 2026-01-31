@@ -21,7 +21,7 @@ Staking is presently accessible on the Sepolia Testnet, where participants will 
 ### Clone
 
 ```
-   git clone https://github.com/tot-git27/munity-game.git
+   git clone https://github.com/tot-git27/mverse-game.git
 ```
 
 ### Install dependencies
